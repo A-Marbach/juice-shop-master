@@ -66,7 +66,7 @@ These documents contained sensitive internal information (e.g., acquisition plan
 The fact that the folder was accessible without authentication represents a clear security flaw.
 
 ## 4. Video Walkthrough
-▶ https://www.loom.com/share/16de980d25f94615bd2851370d9391b4
+[Video Walkthrough](https://www.loom.com/share/16de980d25f94615bd2851370d9391b4)
 
 ## 5. Identified Vulnerability
 ### Broken Access Control – Unprotected Directory / Directory Browsing

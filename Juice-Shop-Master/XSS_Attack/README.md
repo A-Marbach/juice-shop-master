@@ -26,14 +26,14 @@ This vulnerability allows an attacker to execute arbitrary JavaScript code in th
 
 ```json
 {
-  "email": "bob@gmail.com",
-  "password": "hallo123",
-  "passwordRepeat": "hallo123",
+  "email": "Marbach@dev.de",
+  "password": "test123",
+  "passwordRepeat": "test123",
   "securityQuestion": {
     "id": 7,
     "question": "Name of your favorite pet?"
   },
-  "securityAnswer": "zaya"
+  "securityAnswer": "test123"
 }
 ```
 
@@ -60,7 +60,7 @@ This vulnerability allows an attacker to execute arbitrary JavaScript code in th
 - Although `<script>` tags are filtered, execution is possible through an `<iframe>` with a `javascript:` URI
 
 ## 4. Video Walkthrough
-▶ https://www.loom.com/share/82ef9b217feb4caa86a8898663e18473
+[Video Walkthrough](https://www.loom.com/share/82ef9b217feb4caa86a8898663e18473)
 
 ## 5. Risk Analysis / Impact
 
