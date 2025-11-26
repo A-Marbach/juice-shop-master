@@ -7,7 +7,7 @@ The focus was on discovering unprotected directories within the OWASP Juice Shop
 ## 2. Scope
 - **Target System:** OWASP Juice Shop – local instance  
 - **Testing Method:** Black‑Box  
-- **Test Date:** *[Insert date]*  
+- **Test Date:** 26.11.2025 
 - **Tools:** Firefox Developer Tools, Web Browser, Burp Suite (optional)
 
 ## 3. Methodology (Step-by-Step)
