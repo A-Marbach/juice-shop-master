@@ -37,7 +37,7 @@ This repository contains the documentation of three selected Juice Shop challeng
 - **Category:** Injection (SQLi)  
 - **Description:** Using a classic `' OR 1=1--` payload, authentication was bypassed and the admin account was accessed.  
 - **Documentation:**  
-  → [challenges/SQL_injection](./challenges/SQL_injection/README.md)
+  → [challenges/SQL_Injection](./challenges/SQL_Injection/README.md)
 - SQL Injection Admin Login: https://www.loom.com/share/93c07f839b944ddab61468c8c4fedf09
 
 ## Challenge Videos
