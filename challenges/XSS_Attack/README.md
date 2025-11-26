@@ -60,7 +60,7 @@ This vulnerability allows an attacker to execute arbitrary JavaScript code in th
 - Although `<script>` tags are filtered, execution is possible through an `<iframe>` with a `javascript:` URI
 
 ## 4. Video Walkthrough
-[Video Walkthrough](https://www.loom.com/share/82ef9b217feb4caa86a8898663e18473)
+→ https://www.loom.com/share/82ef9b217feb4caa86a8898663e18473
 
 ## 5. Risk Analysis / Impact
 
