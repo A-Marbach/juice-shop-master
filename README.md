@@ -44,9 +44,9 @@ Each challenge includes a short walkthrough video (max. 5 minutes) demonstrating
 - Why the vulnerability is dangerous  
 
 **Video Links:**  
-- Directory Browsing (/ftp): *[Insert link]*  
-- Stored XSS Registration: *[Insert link]*  
-- SQL Injection Admin Login: *[Insert link]*  
+- Directory Browsing (/ftp): https://www.loom.com/share/16de980d25f94615bd2851370d9391b4
+- Stored XSS Registration: https://www.loom.com/share/82ef9b217feb4caa86a8898663e18473
+- SQL Injection Admin Login: https://www.loom.com/share/93c07f839b944ddab61468c8c4fedf09
 
 ## Security Notice
 This project and all included documentation, videos, and demonstrations are strictly for **educational purposes only**.  
