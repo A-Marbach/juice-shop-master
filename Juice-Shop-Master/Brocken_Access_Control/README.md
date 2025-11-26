@@ -65,7 +65,10 @@ These documents contained sensitive internal information (e.g., acquisition plan
 
 The fact that the folder was accessible without authentication represents a clear security flaw.
 
-## 4. Identified Vulnerability
+## 4. Video Walkthrough
+▶ https://www.loom.com/share/16de980d25f94615bd2851370d9391b4
+
+## 5. Identified Vulnerability
 ### Broken Access Control – Unprotected Directory / Directory Browsing
 
 **Description:**  
@@ -77,7 +80,7 @@ It allows retrieving internal documentation and potentially sensitive informatio
 - Directory placed inside the public webroot  
 - Directory listing (autoindex) enabled
 
-## 5. Risk Analysis / Impact
+## 6. Risk Analysis / Impact
 
 ### Technical Impact
 - Unauthenticated access to confidential documents  
@@ -90,7 +93,7 @@ It allows retrieving internal documentation and potentially sensitive informatio
 - Potential loss of trust  
 - Exposure of internal documentation to the public  
 
-## 6. Recommendations
+## 7. Recommendations
 
 1. **Adjust Web Server Configuration**  
    - Move internal directories outside the public webroot.
@@ -107,6 +110,6 @@ It allows retrieving internal documentation and potentially sensitive informatio
 4. **Perform Regular Security Scans**  
    - Use automated tools to detect open or unprotected directories.
 
-## 7. Conclusion
+## 8. Conclusion
 Through a combination of manual exploration, network monitoring, and targeted directory guessing, an unprotected `/ftp` directory was discovered.  
 This challenge demonstrates how easily sensitive files can be exposed in development or DevOps environments due to misconfigured build or deployment pipelines.
