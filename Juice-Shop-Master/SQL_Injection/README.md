@@ -33,7 +33,12 @@ After submitting the login form:
   - The username **“admin”** was displayed.  
   - The challenge **“Login Admin”** was marked as completed on the scoreboard.
 
-## 4. Identified Vulnerability
+
+## 4. Video Walkthrough
+▶ https://www.loom.com/share/93c07f839b944ddab61468c8c4fedf09
+
+
+## 5. Identified Vulnerability
 ### SQL Injection – Authentication Bypass
 
 #### Description
@@ -51,7 +56,7 @@ By manipulating the input, the attacker can bypass the `WHERE` clause entirely a
 - Lack of prepared statements  
 - Direct string concatenation inside SQL queries  
 
-## 5. Risk Analysis / Impact
+## 6. Risk Analysis / Impact
 
 ### Technical Impact
 - Full takeover of the administrator account  
@@ -65,11 +70,11 @@ By manipulating the input, the attacker can bypass the `WHERE` clause entirely a
 - Severe damage to company reputation and user trust  
 - Legal consequences (e.g., GDPR violations)
 
-## 6. Recommendations
+## 7. Recommendations
 1. **Use prepared statements / parameterized queries** for all SQL operations  
 2. **Server-side validation and escaping** of user input  
 3. **Rate limiting** on failed login attempts  
 4. **Comprehensive code review** focusing on input handling and database interactions  
 
-## 7. Conclusion
+## 8. Conclusion
 This challenge demonstrates how insecure SQL query construction can be easily exploited to gain full system access. SQL Injection remains one of the most dangerous and widespread security vulnerabilities, making secure database handling essential for any application.
