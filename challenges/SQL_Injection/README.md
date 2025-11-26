@@ -35,7 +35,7 @@ After submitting the login form:
 
 
 ## 4. Video Walkthrough
-[Video Walkthrough](https://www.loom.com/share/93c07f839b944ddab61468c8c4fedf09)
+→ https://www.loom.com/share/93c07f839b944ddab61468c8c4fedf09
 
 
 ## 5. Identified Vulnerability
