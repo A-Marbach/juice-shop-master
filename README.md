@@ -1,6 +1,6 @@
 # Juice Shop Master
-This project documents the analysis and exploitation of several security vulnerabilities within the OWASP Juice Shop application.  
-All findings and demonstrations are conducted strictly for educational and research purposes only.
+Security Vulnerability Analysis & Penetration Testing (Educational)
+OWASP Juice Shop: SQL Injection, XSS, Access Control | For learning only
 
 ## Table of Contents
 - [Project Overview](#project-overview)
